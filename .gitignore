@@ -1,0 +1,6 @@
+.DS_Store
+snake_game/venv/
+/__pycache__
+learn_turtle/learn_turle
+learn_turtle/.DS_Store
+learn_turtle/__pycache__/turtle.cpython-310.pyc
