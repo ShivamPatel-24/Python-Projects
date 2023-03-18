@@ -9,6 +9,7 @@ timmy.speed("fast")
 timmy.pensize(10) 
 
 colormode(255)
+timmy.de
 
 def random_color():
     r = random.randint(0, 255)
